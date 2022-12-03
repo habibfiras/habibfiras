@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **habibfiras/habibfiras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=habibfiras&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
+- 🌱 I’m currently learning angualr and spring boot
 
