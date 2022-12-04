@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Visitor Count](https://profile-counter.glitch.me/{habibfiras}/count.svg)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=habibfiras&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
