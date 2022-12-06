@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Hi there 👋
-- 🔭 I'm Web development student studying in ESPRIT
+- 🔭 I'm currently a software engineering student studying in ESPRIT
 - 🌱 I’m currently learning angular and spring boot
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=habibfiras&theme=dark&background=000000)](https://git.io/streak-stats)
+-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=habibfiras&theme=dark&background=000000)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=habibfiras&show_icons=true&theme=dark&background=000000)
-- ![Visitor Count](https://profile-counter.glitch.me/{habibfiras}/count.svg)
+-![Visitor Count](https://profile-counter.glitch.me/{habibfiras}/count.svg)
 
 
 
