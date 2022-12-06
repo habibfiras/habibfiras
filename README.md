@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 Hi there 👋
 - 🔭 I'm an angular Developer from Ariana, Tunisia.
 - 🌱 I’m currently learning angular and spring boot
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=habibfiras&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ![Visitor Count](https://profile-counter.glitch.me/{habibfiras}/count.svg)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=habibfiras&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
 
