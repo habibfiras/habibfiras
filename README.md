@@ -14,10 +14,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Hi there 👋
-![Visitor Count](https://profile-counter.glitch.me/{habibfiras}/count.svg)
 - 🔭 I'm an angular Developer from Ariana, Tunisia.
+- 🌱 I’m currently learning angular and spring boot
+
+![Visitor Count](https://profile-counter.glitch.me/{habibfiras}/count.svg)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=habibfiras&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
-- 🌱 I’m currently learning angular and spring boot
 
