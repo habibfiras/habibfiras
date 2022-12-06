@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Hi there 👋
-- 🔭 I'm an angular Developer from Ariana, Tunisia.
 ![Visitor Count](https://profile-counter.glitch.me/{habibfiras}/count.svg)
-
+- 🔭 I'm an angular Developer from Ariana, Tunisia.
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=habibfiras&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
